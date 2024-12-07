@@ -2,6 +2,9 @@
 
 This project is a fully functional **E-Commerce Website** built using **HTML**, **CSS**, and **JavaScript** during my internship at **InternPe**. The goal was to design and develop a responsive, dynamic, and user-friendly platform that showcases products and simulates core e-commerce functionalities.  
 
+# Live Preview 🎉
+https://ajaybajad.github.io/ecommerce/
+
 ---
 
 ## 🔥 Features  
